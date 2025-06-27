@@ -38,7 +38,7 @@ Due to GitHub file size limits, the full training dataset is hosted externally:
 
 [Download Egyptian Currency Dataset from Google Drive](https://drive.google.com/file/d/1QlImLZTzBNxesALn4KMtvt-JP7fsTS4T/view?usp=drive_link)
 
-Total images: ~600
+Total images Train : ~14000
 
 Classes: 5 EGP, 10 EGP, 20 EGP, 50 EGP, 100 EGP, 200 EGP
 
