@@ -36,7 +36,7 @@ Open detect.ipynb to test detection in the cloud.
 📂 Full Dataset
 Due to GitHub file size limits, the full training dataset is hosted externally:
 
-🔗 Download Egyptian Currency Dataset from Google Drive
+[Download Egyptian Currency Dataset from Google Drive](https://drive.google.com/file/d/1QlImLZTzBNxesALn4KMtvt-JP7fsTS4T/view?usp=drive_link)
 
 Total images: ~600
 
