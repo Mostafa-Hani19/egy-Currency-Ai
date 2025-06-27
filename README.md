@@ -33,7 +33,7 @@ currency_detector/
 Open detect.ipynb to test detection in the cloud.
 
 
-### ▶️ Run in Python (locally):
+## ▶️ Run in Python (locally):
 
 ```bash
 pip install tensorflow opencv-python numpy
