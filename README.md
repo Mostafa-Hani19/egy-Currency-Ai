@@ -39,8 +39,20 @@ Open detect.ipynb to test detection in the cloud.
 pip install tensorflow opencv-python numpy
 python detect.py
 
+##
+📂 Full Dataset
+Due to GitHub file size limits, the full training dataset is hosted externally:
+
+🔗 Download Egyptian Currency Dataset from Google Drive
+
+Total images: ~600
+
+Classes: 5 EGP, 10 EGP, 20 EGP, 50 EGP, 100 EGP, 200 EGP
+
+Format: .jpg images + labels.csv
 
 
+## 
 👤 Author
 Mostafa Hani
 GitHub: @Mostafa-Hani19
