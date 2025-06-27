@@ -32,13 +32,6 @@ currency_detector/
 
 Open detect.ipynb to test detection in the cloud.
 
-
-## ▶️ Run in Python (locally):
-
-```bash
-pip install tensorflow opencv-python numpy
-python detect.py
-
 ##
 📂 Full Dataset
 Due to GitHub file size limits, the full training dataset is hosted externally:
@@ -56,3 +49,11 @@ Format: .jpg images + labels.csv
 👤 Author
 Mostafa Hani
 GitHub: @Mostafa-Hani19
+
+## ▶️ Run in Python (locally):
+
+```bash
+pip install tensorflow opencv-python numpy
+python detect.py
+
+
